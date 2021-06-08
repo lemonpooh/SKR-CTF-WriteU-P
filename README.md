@@ -16,7 +16,7 @@ yea, there is a zip file. we try to open it.
 
 ![image](https://user-images.githubusercontent.com/59368650/121178016-a1c7be00-c890-11eb-8356-94f323782eb1.png)
 
-BUT WHAT? its not a normsl file
+BUT WHAT? its not a normal file
 Then we check again with the hints.
 
 from the hints given , it tell us coffee or tea? what if we think of binary 0 or 1
