@@ -12,11 +12,11 @@ the file size of the coffee_or_tea.png is big. Could it be another file hidden i
 So, i check with binwalk.
 ![image](https://user-images.githubusercontent.com/59368650/121177751-5d3c2280-c890-11eb-8104-afdf5a846c32.png)
 
-yea, there is a zip file. we try to open it. 
+yea, there is a zip file. I try to open it. 
 
 ![image](https://user-images.githubusercontent.com/59368650/121178016-a1c7be00-c890-11eb-8356-94f323782eb1.png)
 
-BUT WHAT? its not a normal file
+OH WHAT? its not a normal file
 Then we check again with the hints.
 
 from the hints given , it tell us coffee or tea? what if we think of binary 0 or 1
