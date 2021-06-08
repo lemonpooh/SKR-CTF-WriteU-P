@@ -36,7 +36,21 @@ So, after we decode it one by one by grouping 8bit in one group. Here's what we 
 
 
 ## Binary Exploitation
-### 1. Comin Soon... 
+### 1. Guess The Number 
 
+
+![image](https://user-images.githubusercontent.com/59368650/121239344-b4abb400-c8cb-11eb-8501-efa3afb91954.png)
+
+
+It seems like I need to buffer overflow the input value. But the input function using scanf() instead of fgets() or gets(), which mostly both of these function can lead to buffer overflow. But how can I overflow the scanf() function? I was thinking..
+I've been trying so hard to buffer overflow the challenge. 
+But I give up thinking on solving this challenge, and decided to ask for hints from my senior.
+SO, the solution that I got was create a similar C program to run the srand() seed time with the challenge program at the same time, within 1 second.
+
+![image](https://user-images.githubusercontent.com/59368650/121240703-351ee480-c8cd-11eb-91db-f85b7e610939.png)
+
+So, we will get the flag.
+
+### 2. Overflow Me!
 
 *Forgive on my broken english!*
