@@ -3,7 +3,7 @@
 ## Steaganography
 ### 1. Coffee Or Tea?
 
-**This challenge need a bit high level critical thinking skill as i have been stuck for long time too. But I got the hints from one of legend from skr **
+**This challenge need a bit high level critical thinking skill as i also been stuck this chall for long time too. But I got the hints from one of legend from skr 
 
 from the image that I have downloaded, firstly I check the file size.
 ![image](https://user-images.githubusercontent.com/59368650/121174835-f10bef80-c88c-11eb-99d8-178aa145d7e3.png)
