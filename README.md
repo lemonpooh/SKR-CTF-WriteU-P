@@ -11,9 +11,11 @@ from the image that I have downloaded, firstly I check the file size.
 the file size of the coffee_or_tea.png is big. Could it be another file hidden in the image?
 So, i check with binwalk.
 ![image](https://user-images.githubusercontent.com/59368650/121177751-5d3c2280-c890-11eb-8104-afdf5a846c32.png)
+
 yea, there is a zip file. we try to open it. 
 
 ![image](https://user-images.githubusercontent.com/59368650/121178016-a1c7be00-c890-11eb-8356-94f323782eb1.png)
+
 BUT WHAT? its not a normsl file
 Then we check again with the hints.
 
@@ -22,7 +24,9 @@ from the hints given , it tell us coffee or tea? what if we think of binary 0 or
 
 Inside the coffee_or_tea.png image, there is 12 group with 8 picture each. So, to form a character, it needs 8bits binary to form.
 So, there's what i got 
+
 ![image](https://user-images.githubusercontent.com/59368650/121178636-4e09a480-c891-11eb-95cb-9fb95a0cd134.png)
+
 no character...
 This making me almost giveup。
 Think deeply, the title stated coffee or tea. So we need to guess from the every picture inside the image whether is coffee or tea and 0 or 1. Since, legend had gave me hints for this which is coffee be 1 and tea be 0.
