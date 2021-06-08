@@ -28,6 +28,7 @@ So, there's what i got
 ![image](https://user-images.githubusercontent.com/59368650/121178636-4e09a480-c891-11eb-95cb-9fb95a0cd134.png)
 
 no character...
-This making me almost giveup。
+This making me almost giveup.
+
 Think deeply, the title stated coffee or tea. So we need to guess from the every picture inside the image whether is coffee or tea and 0 or 1. Since, legend had gave me hints for this which is coffee be 1 and tea be 0.
 So, after we decode it one by one by grouping 8bit in one group. Here's what we got the flag SKR{coffee} *This is not the flag, I have forgotten the flag, you need to decode it by your self! glhf!
