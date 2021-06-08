@@ -36,8 +36,7 @@ So, after we decode it one by one by grouping 8bit in one group. Here's what we 
 
 
 ## Binary Exploitation
-### 1. Comin Soon...
-
+### 1. Comin Soon... 
 
 
 *Forgive on my broken english!*
