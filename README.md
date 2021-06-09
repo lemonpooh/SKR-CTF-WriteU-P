@@ -35,6 +35,8 @@ So, after I decode it one by one by grouping 8bit in one group. Here's what I go
 
 
 
+
+
 ## Binary Exploitation
 ### 1. Guess The Number 
 
