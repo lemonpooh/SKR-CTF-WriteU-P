@@ -15,7 +15,7 @@ yea, there is a zip file. I try to open it.
 ![image](https://user-images.githubusercontent.com/59368650/121178016-a1c7be00-c890-11eb-8356-94f323782eb1.png)
 
 OH WHAT? its not a normal file
-Then we check again with the hints.
+Then I check again with the hints.
 
 from the hints given , it tell us coffee or tea? what if we think of binary 0 or 1
 ![image](https://user-images.githubusercontent.com/59368650/121173830-d422ec80-c88b-11eb-9a54-a5b0c29e36d1.png)
