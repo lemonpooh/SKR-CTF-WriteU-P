@@ -28,5 +28,5 @@ So, there's what i got
 no character...
 This making me almost giveup.
 
-Think deeply, the title stated coffee or tea. So I need to guess from the every picture inside the image whether is coffee or tea and 0 or 1. Since, legend had gave me hints for this which is coffee be 1 and tea be 0.
+Think deeply, the title stated coffee or tea. So I need to guess from the every picture inside the image whether they are drinking coffee or tea @,@ (0 or 1). Since, legend had gave me hints for this which is coffee be 1 and tea be 0.
 So, after I decode it one by one by grouping 8bit in one group. Here's what I got the flag SKR{coffee} *This is not the flag, I have forgotten the flag, you need to decode it by your self! glhf!
