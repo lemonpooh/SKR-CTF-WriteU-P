@@ -2,7 +2,7 @@
 
 ## 1. Corrupted Image
 
-Let's first check the file signature by using tools <Hexeditor>.
+Let's first check the file signature by using tools <<Hexeditor>>.
 	![image](https://user-images.githubusercontent.com/59368650/121786568-1ed99700-cbf3-11eb-8985-da087fb839f2.png)
 From the image, we can see the word SKR.
 Let's just change the hex to the right file signature hex format. (Change the first 4groups hex values)
@@ -15,4 +15,5 @@ Let's just change the hex to the right file signature hex format. (Change the fi
 	![image](https://user-images.githubusercontent.com/59368650/121786982-e6878800-cbf5-11eb-9d3c-03db0f51b05b.png)
 <br>
 	![image](https://user-images.githubusercontent.com/59368650/121787024-4120e400-cbf6-11eb-8ff4-ecc8744b7f42.png)
-By extracting all capital letter, you will get the flag.
+<br>
+	By extracting all capital letter, you will get the flag.
