@@ -10,7 +10,7 @@ Let's just change the hex to the right file signature hex format. (Change the fi
 
 ![image](https://user-images.githubusercontent.com/59368650/121786875-40d41900-cbf5-11eb-9fd8-73a5dfe47e21.png)
 
-<a src="https://en.wikipedia.org/wiki/List_of_file_signatures"> File Signature Lists </a>
+<a href="https://en.wikipedia.org/wiki/List_of_file_signatures"> File Signature Lists </a>
 <br>	
 After changing file extension to .PNG, you will get the flag image.
 
