@@ -18,7 +18,8 @@ After changing file extension to .PNG, you will get the flag image.
 
 <br>
 
+By extracting all capital letter, you will get the flag.
 ![image](https://user-images.githubusercontent.com/59368650/121787024-4120e400-cbf6-11eb-8ff4-ecc8744b7f42.png)
 
-<br>
-	By extracting all capital letter, you will get the flag.
+
+	
