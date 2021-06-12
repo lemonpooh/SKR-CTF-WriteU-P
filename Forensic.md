@@ -13,6 +13,7 @@ Let's just change the hex to the right file signature hex format. (Change the fi
 <a src="https://en.wikipedia.org/wiki/List_of_file_signatures"> File Signature Lists </a>
 	
 After changing file extension to .PNG, you will get the flag image.
+
 	![image](https://user-images.githubusercontent.com/59368650/121786982-e6878800-cbf5-11eb-9d3c-03db0f51b05b.png)
 <br>
 	![image](https://user-images.githubusercontent.com/59368650/121787024-4120e400-cbf6-11eb-8ff4-ecc8744b7f42.png)
