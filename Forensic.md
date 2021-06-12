@@ -2,7 +2,7 @@
 
 ## 1. Corrupted Image
 
-Let's first check the file signature by using tools <<Hexeditor>>.
+Let's first check the file signature by using tools ```Hexeditor```.
 	![image](https://user-images.githubusercontent.com/59368650/121786568-1ed99700-cbf3-11eb-8985-da087fb839f2.png)
 From the image, we can see the word SKR.
 Let's just change the hex to the right file signature hex format. (Change the first 4groups hex values)
