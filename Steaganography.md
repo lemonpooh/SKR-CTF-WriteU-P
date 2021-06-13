@@ -54,7 +54,7 @@ So, I downloaded it down and open it with Hexeditor.
 
 ![flag](https://user-images.githubusercontent.com/59368650/121797384-6e9b7b00-cc52-11eb-9974-132c11a393f7.jpg)
 
-It's a base64 encoded message. So, decode it using online tools base64, we will get the flag. ![Uploading flag.jpg…]()
+It's a base64 encoded message. So, decode it using online tools base64, we will get the flag. 
 
 
 ![image](https://user-images.githubusercontent.com/59368650/121797259-c4235800-cc51-11eb-972b-3fabf5b68f9b.png)
