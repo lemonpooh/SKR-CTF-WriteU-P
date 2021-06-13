@@ -34,7 +34,7 @@ So, after I decode it one by one by grouping 8bit in one group. Here's what I go
 
 <br>
 <br>
-### 2. A Thousand Words
+###2. A Thousand Words
 
 For the image I had downloaded, it's a github photo.
 
