@@ -32,9 +32,9 @@ Think deeply, the title stated coffee or tea. So I need to guess from the every 
 So, after I decode it one by one by grouping 8bit in one group. Here's what I got the flag SKR{coffee} *This is not the flag, I have forgotten the flag, you need to decode it by your self! glhf!
 
 
-<br>
-<br>
-###2. A Thousand Words
+</br>
+</br>
+### 2. A Thousand Words
 
 For the image I had downloaded, it's a github photo.
 
