@@ -34,6 +34,7 @@ So, after I decode it one by one by grouping 8bit in one group. Here's what I go
 
 </br>
 </br>
+
 ### 2. A Thousand Words
 
 For the image I had downloaded, it's a github photo.
@@ -46,9 +47,6 @@ From hexeditor view, I saw an weird url.
 ![image](https://user-images.githubusercontent.com/59368650/121797118-d355d600-cc50-11eb-8cf8-8d4b3936b765.png)
 
 But missing the front part. So, I guess it's a github page. 
-
-![image](https://user-images.githubusercontent.com/59368650/121797170-24fe6080-cc51-11eb-87dc-4d39f65f7a7b.png)
-
 <a href="https://github.com/Hong5489/SKRCTF/blob/master/flag.jpg">Flag on Github page.</a>
 
 Then, I saw an image there stated No Flag here. Probably there's a flag must be hiding inside the image.
