@@ -50,7 +50,7 @@ But missing the front part. So, I guess it's a github page.
 <a href="https://github.com/Hong5489/SKRCTF/blob/master/flag.jpg">Flag on Github page.</a>
 
 Then, I saw an image there stated No Flag here. Probably there's a flag must be hiding inside the image.
-So, I downloaded it down and open it with Hexeditor.
+So, I downloaded it and open it with Hexeditor.
 
 ![flag](https://user-images.githubusercontent.com/59368650/121797384-6e9b7b00-cc52-11eb-9974-132c11a393f7.jpg)
 
