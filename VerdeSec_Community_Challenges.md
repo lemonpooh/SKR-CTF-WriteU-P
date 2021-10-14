@@ -2,7 +2,8 @@
 ## Gaius
 ```Description: I had rather be first in a village than second at Rome.`
 
-Flag format: verdesec{XXX}```
+Flag format: verdesec{XXX}
+```
  
 From the description, we can simply google the quote. And we can know that it is relate to caeser cipher.
 But sadly it is not relate to caeser cipher i guess due to the encoded flag are involved with some special characters. AHAHAHAHA
