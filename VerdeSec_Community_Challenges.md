@@ -1,10 +1,8 @@
 # VerdeSEC CommChallenges
 ## Gaius
-http://github.com - automatic!
-[GitHub](http://github.com)
+
+[File](https://github.com/lemonpooh/SKR-CTF-WriteU-P/blob/618573c8e25641a6a82e668685b72f67d72ef004/Gaius%20(1).zip)
 ```
-<a href=https://github.com/lemonpooh/SKR-CTF-WriteU-P/blob/618573c8e25641a6a82e668685b72f67d72ef004/Gaius%20(1).zip>File</a>
- 
 Description: I had rather be first in a village than second at Rome.`
 Flag format: verdesec{XXX}
 ```
