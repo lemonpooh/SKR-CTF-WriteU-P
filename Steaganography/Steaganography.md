@@ -64,9 +64,16 @@ It's a base64 encoded message. So, decode it using online tools base64, we will 
 ![image](https://user-images.githubusercontent.com/59368650/138585161-1020378b-11f6-466a-8bce-d058b9641170.png)
 
 Check the color bits from the [online tools](https://pixlr.com/x/).
-```
-Upload the image > origin > choose draw ![image](https://user-images.githubusercontent.com/59368650/138585279-55f17637-0356-4f17-b9bc-ecaff575bed4.png) > click ![image](https://user-images.githubusercontent.com/59368650/138585321-5c3ec96f-bb21-463a-91f9-433d9f723b6b.png)
-```
+`Upload the image > origin`
+
+choose draw 
+
+![image](https://user-images.githubusercontent.com/59368650/138585279-55f17637-0356-4f17-b9bc-ecaff575bed4.png)
+
+click 
+
+![image](https://user-images.githubusercontent.com/59368650/138585321-5c3ec96f-bb21-463a-91f9-433d9f723b6b.png)
+
 pick the grey color of the image 
 
 ![image](https://user-images.githubusercontent.com/59368650/138585413-290ae8bb-2ebe-49b3-b1c5-4956c1020ec8.png)
