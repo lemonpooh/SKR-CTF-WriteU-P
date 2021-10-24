@@ -1,5 +1,5 @@
-## Steaganography
-### 1. Coffee Or Tea?
+# Steaganography
+## 1. Coffee Or Tea?
 
 **This challenge need a bit high level critical thinking skill as i also been stuck this chall for long time too. But I got the hints from one of the legend from skr* 
 
@@ -35,7 +35,7 @@ So, after I decode it one by one by grouping 8bit in one group. Here's what I go
 </br>
 </br>
 
-### 2. A Thousand Words
+## 2. A Thousand Words
 
 For the image I had downloaded, it's a github photo.
 
@@ -54,8 +54,28 @@ So, I downloaded it and open it with Hexeditor.
 
 ![flag](https://user-images.githubusercontent.com/59368650/121797384-6e9b7b00-cc52-11eb-9974-132c11a393f7.jpg)
 
-It's a base64 encoded message. So, decode it using online tools base64, we will get the flag. 
-
+It's a base64 encoded message. So, decode it using online tools base64, we will get the flag. Note that this encoded message is 3 layer base64 encoding.
 
 ![image](https://user-images.githubusercontent.com/59368650/121797259-c4235800-cc51-11eb-972b-3fabf5b68f9b.png)
+
+
+## 3. Secret Letter
+
+![image](https://user-images.githubusercontent.com/59368650/138585161-1020378b-11f6-466a-8bce-d058b9641170.png)
+
+Check the color bits from the [online tools](https://pixlr.com/x/).
+```
+Upload the image > origin > choose draw ![image](https://user-images.githubusercontent.com/59368650/138585279-55f17637-0356-4f17-b9bc-ecaff575bed4.png) > click ![image](https://user-images.githubusercontent.com/59368650/138585321-5c3ec96f-bb21-463a-91f9-433d9f723b6b.png)
+```
+pick the grey color of the image 
+
+![image](https://user-images.githubusercontent.com/59368650/138585413-290ae8bb-2ebe-49b3-b1c5-4956c1020ec8.png)
+
+and we will see the hex value of each grey color. you can see the every 2 numbers is repeated. So, it is represent to hex number. Decode the hex number -> ASCII value one by one and we will get the whole flag. eg. 53 4b 52 7b 68 ...
+
+![image](https://user-images.githubusercontent.com/59368650/138585441-da405310-f083-42db-aa42-29612c475e59.png)
+
+
+
+
 
