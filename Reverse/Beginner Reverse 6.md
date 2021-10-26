@@ -43,7 +43,7 @@ int main () {
 }
 ```
 
-I have no experience on reverse tools using but this easy challenges you can do it as forward engineering HAHAHA.
+I have no experience on reverse tools using but this easy challenges we can do it as forward engineering HAHAHA.
 Refer to ascii table
 ![image](https://user-images.githubusercontent.com/59368650/138586699-4c54c0d8-6fad-476c-a514-33ceab7f827f.png)
 
