@@ -1,4 +1,5 @@
 # IDA tools
+- Drag the file into IDA 
 - press F5 to view the pseudocode
 
 ![image](https://user-images.githubusercontent.com/59368650/172771887-c67569e8-34ec-4296-a686-55bebe247aec.png)
